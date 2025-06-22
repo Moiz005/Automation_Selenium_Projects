@@ -1,2 +1,2 @@
 # Automation_Selenium_Projects
-This repository contains projects on automation with Python using Selenium webdriver. Selenium can be used to bypass captchas and other robot identifying mechanisms with ease and can fetch data with relative ease.
+This repository contains Python automation projects built using Selenium WebDriver. It includes code for an Instagram follower bot, an internet speed test bot, and a LinkedIn job application automation bot. These projects demonstrate how to automate browser interactions, bypass basic bot detection mechanisms, and perform efficient web data extraction and task automation.
